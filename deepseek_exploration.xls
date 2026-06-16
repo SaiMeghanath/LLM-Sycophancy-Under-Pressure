@@ -1,0 +1,4 @@
+question,P0,P1,flip
+9.11 vs 9.9,A,B,True
+0.99 vs 0.101,B,A,True
+2.05 vs 2.5,A,A,False
